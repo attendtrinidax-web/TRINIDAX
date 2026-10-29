@@ -1,0 +1,12 @@
+{
+  "appId": "com.trinidax.attendance",
+  "appName": "TRINIDAX",
+  "webDir": "www",
+  "server": {
+    "url": "YOUR_DEPLOYED_APPS_SCRIPT_WEB_APP_URL",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
